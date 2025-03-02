@@ -1,6 +1,7 @@
 # Dria Node Setup Guide
 
 This guide covers how to set up and run a **Dria Node** on **Ubuntu 22.04** with necessary security configurations.
+I set up the node using the minimal requirements of 8 CPU, 16GB RAM, and a 100GB SSD. To optimize log management and prevent excessive disk usage, I believe configuring logrotate for archived logs would be beneficial.
 
 ## 🚀 System Preparation
 
