@@ -112,5 +112,7 @@ To keep the node running in the background, create a **systemd service**:
   ```bash
   sudo ufw status
   ```
+#### 🚨 Install and Configure Fail2Ban
+For additional security, you can also configure Fail2Ban to protect the server from unauthorized access attempts.
 
 ## 🎯 Done! Your Dria Node is now running securely 🚀
